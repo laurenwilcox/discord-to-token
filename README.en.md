@@ -66,4 +66,4 @@ You can thank the author of the topic by transferring funds to the balance
 ---
 <h2>TTR2hjvwZw3gv9CotNR7ji4zda2Fd1Y63R USDT(TRC-20)</h2>
 
-Digital goods bot [@BurattyHotelBot](https://t.me/BurattyHotelBot?start=github)
+Digital goods bot [@BurattyHotelBot](https://t.me/BurattyHotelBot?start=github_en)
