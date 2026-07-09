@@ -1,3 +1,6 @@
+<p align="right">
+  <strong>RU</strong> | <a href="./README.en.md">EN</a>
+</p>
 # discord-to-token
 # Добавил расширение в спойлере ниже!
 
