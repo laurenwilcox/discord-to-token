@@ -67,4 +67,4 @@ javascript:(function () {const token = "Тут токен"; setInterval(() => {d
 <h2>TTR2hjvwZw3gv9CotNR7ji4zda2Fd1Y63R USDT(TRC-20)</h2>
 
 
-<h2>Бот цыфровых товаров [@BurattyHotelBot](https://t.me/BurattyHotelBot)</h2> 
+Бот цыфровых товаров [@BurattyHotelBot](https://t.me/BurattyHotelBot)
