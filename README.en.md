@@ -61,8 +61,7 @@ Beginning of javascript: may self-destruct, so enter it manually if this happens
 This method doesn't require any third-party programs.
 
 
-Was this material helpful?
+Was this material helpful?<br>
 You can thank the author of the topic by transferring funds to the balance
-Вы можете отблагодарить автора темы путем перевода средств на баланс
 ---
 <h2>TTR2hjvwZw3gv9CotNR7ji4zda2Fd1Y63R USDT(TRC-20)</h2>
